@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/disruptor.iml" filepath="$PROJECT_DIR$/.idea/disruptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor-api/disruptor-api.iml" filepath="$PROJECT_DIR$/disruptor-api/disruptor-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor-netty-client/disruptor-netty-client.iml" filepath="$PROJECT_DIR$/disruptor-netty-client/disruptor-netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor-netty-com/disruptor-netty-com.iml" filepath="$PROJECT_DIR$/disruptor-netty-com/disruptor-netty-com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/disruptor-netty-server/disruptor-netty-server.iml" filepath="$PROJECT_DIR$/disruptor-netty-server/disruptor-netty-server.iml" />
+    </modules>
+  </component>
+</project>
